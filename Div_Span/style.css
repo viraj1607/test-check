@@ -1,0 +1,20 @@
+#s1{
+    width:33.33%
+    border: 5px solid black;
+    border-radius: 10px ;
+    padding: 20px 5px 20px 5px;
+    
+}
+#s2{
+    border: 5px solid black;
+    border-radius: 10px ;
+    padding: 20px 5px 20px 5px;
+    width:33.33%
+}
+
+#s3{
+    border: 5px solid black;
+    border-radius: 10px ;
+    padding: 20px 5px 20px 5px;
+    width:33.33%
+}

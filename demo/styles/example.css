@@ -1,0 +1,64 @@
+.flex-example {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading-example {
+  display: flex;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: lightgray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.sign-in{
+  width: 100px;
+  height: 50px;
+  color: #F7F7F7;
+  border-radius: 5px;
+  background: #28C8AB 0% 0% no-repeat padding-box;
+  font-size: 20px;
+  border: 1px solid #28C8AB;
+}
+
+.sign-up{
+  width: 100px;
+  height: 50px;
+  color:black;
+  border-radius: 5px;
+  background: white;
+  font-size: 20px;
+  border: 1px solid;
+  margin-right: 30px;
+}
+
+.take-test{
+  width: 200px;
+  height: 50px;
+  color:black;
+  border-radius: 5px;
+  background: white;
+  font-size: 15px;
+  border: 1px solid;
+  margin-right: 30px;
+
+}
+
+.masthead{
+  display: flex;
+  justify-content: space-between;
+}
+
+.masthead-container{
+  width: 250px;
+  font-size: 15px;
+  padding-left: 250px;
+  padding-top: 50px;
+  justify-content: center;
+}
